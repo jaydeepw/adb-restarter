@@ -1,0 +1,1 @@
+/home/jay/android-sdks/platform-tools/adb
