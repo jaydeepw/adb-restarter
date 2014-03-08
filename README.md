@@ -15,3 +15,11 @@ ADB path  /home/jay/android-sdks/platform-tools/adb
 * daemon started successfully *
 $
 ```
+
+## Direct from command line
+
+Add the following alias to your .bashrc and get going.
+
+```python```
+alias suadb='python ~/Desktop/restart_adb.py'
+```
