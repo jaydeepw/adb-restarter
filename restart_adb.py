@@ -1,6 +1,6 @@
 import os
 
-filename = "path.txt"
+filename = "tmp.txt"
 
 # copy ADB path to a file
 os.system( "which adb > " + filename )
